@@ -205,7 +205,7 @@
                 },
                 {
                     "name": "backoffice",
-                    "contextPath": ""
+                    "contextPath": "/backoffice"
                 },
                 {
                     "name": "odata2webservices"
